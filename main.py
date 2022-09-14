@@ -6,7 +6,7 @@ import config.bad_words as bw
 bot = Bot(token=cfg.token_tg_bot)
 dp = Dispatcher(bot)
 
-# test
+# test 11
 
 
 @dp.message_handler(commands=["start"])
